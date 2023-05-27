@@ -7,9 +7,9 @@ function App() {
         You are in bad spot
       </h1>
 
-      <div>
+      <nav>
         <p>Tu będzie nwm może navbar</p>
-      </div>
+      </nav>
     </>
   )
 }
