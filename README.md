@@ -1,0 +1,2 @@
+# TypeMessage
+Podróbka messengera
