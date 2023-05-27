@@ -4,6 +4,7 @@ function App() {
     <>
       <h1>
         Hi {name}!
+        You are in bad spot
       </h1>
     </>
   )
