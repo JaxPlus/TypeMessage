@@ -6,6 +6,10 @@ function App() {
         Hi {name}!
         You are in bad spot
       </h1>
+
+      <div>
+        <p>Tu będzie nwm może navbar</p>
+      </div>
     </>
   )
 }
