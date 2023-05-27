@@ -1,8 +1,9 @@
 function App() {
+  const name = "Andrzej";
   return (
     <>
       <h1>
-        Hi mom!
+        Hi {name}!
       </h1>
     </>
   )
