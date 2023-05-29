@@ -1,7 +1,7 @@
 type ButtonProps = {
   children: JSX.Element | string;
   type?: "primary" | "secondary"; // Trzeba będzie zapewne dodać więcej
-  className: string;
+  className?: string;
 };
 
 export default function Button({
