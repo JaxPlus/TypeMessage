@@ -1,17 +1,19 @@
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+import MainContent from "./components/MainContent";
+
 function App() {
-  const name = "Andrzej";
+  // const name = "Andrzej";
   return (
     <>
-      <h1>
-        Hi {name}!
-        You are in bad spot
-      </h1>
+      <Header />
+      {/* <h1>Hi {name}! You are in bad spot</h1> */}
 
-      <nav>
-        <p>Tu będzie nwm może navbar</p>
-      </nav>
+      <MainContent />
+
+      <Footer />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
